@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-animator_attach-0.1";
 const contentToCache = [
     "Build/man_attack.loader.js",
-    "Build/man_attack.framework.js.gz",
-    "Build/man_attack.data.gz",
-    "Build/man_attack.wasm.gz",
+    "Build/man_attack.framework.js",
+    "Build/man_attack.data",
+    "Build/man_attack.wasm",
     "TemplateData/style.css"
 
 ];
